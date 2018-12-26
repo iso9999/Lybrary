@@ -1,0 +1,9 @@
+#Note:
+
+!!! le nom de la base de données : "library_demo"
+
+!!! le fichier sql : "library_demo.sql"
+
+!!! le login admin : http://localhost/library/admin/ad_connexion951.php
+!!! pseudo : admin
+!!! mot de passe : 123456789yo
